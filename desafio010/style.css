@@ -1,0 +1,52 @@
+@charset "UTF-8";
+.centralizado{
+    text-align: center;
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #DBF1E5;
+}
+header{
+    background-image: linear-gradient(to bottom, #3DDB84, #1A5C38);
+    padding: 20px 20px 20px 20px;
+    margin: -10px -8px 0px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.342);
+}
+.idroid{
+    font-family: idroid; color: green;
+}
+a{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #DBF1E5;
+    text-decoration: none;
+    margin-right: 20px;
+    font-weight: bold;
+}
+body{
+    background-color: #84E1AD;
+}
+main{
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.342);
+    background-color: white;
+    border-radius: 3px;
+    border:30px 30px;
+    padding: 10px 30px;
+    width: min-content;
+    margin: auto;
+    
+}
+@font-face {
+    font-family:'idroid';
+    src: url(fontes/idroid.otf) format(opentype);
+    
+}
+p{
+    text-indent: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+#video{
+   
+    width: auto;
+
+
+}
