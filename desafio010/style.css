@@ -13,12 +13,21 @@ header{
 }
 .idroid{
     font-family: idroid; color: green;
+    background-image: linear-gradient(to right, #C5E8D3, white);
+    border-radius: 7px;
 }
-a{
+.a{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #DBF1E5;
     text-decoration: none;
     margin-right: 20px;
+    font-weight: bold;
+}
+a{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    text-decoration: none;
+    margin-right: 0px;
     font-weight: bold;
 }
 body{
@@ -45,8 +54,44 @@ p{
     text-align: justify;
 }
 #video{
-   
-    width: auto;
-
-
+    background-color: #1A5C38;
+    width: min-content;
+    margin: 30px -30px -10px -30px;
+    padding: 20px 80px 20px 70px ;
+}
+.img{
+    width:min-content;
+    margin: auto;
+}
+footer{
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.342);
+    background-color: white;
+    border-radius: 3px;
+    border:30px 30px;
+    padding: 10px 30px;
+    width: min-content;
+    margin: auto;
+}
+.pe{
+    background-color: #2FA866;
+    width: 800px;
+    margin: auto;
+    border-radius: 10px 10px 0px 0px;
+    padding: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #DBF1E5;
+    font-weight: bold;
+}
+div.links{
+    background-color: #C5EBD6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-indent: 20px;
+    color: black;
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-radius: 3px;
+}
+div{
+    display: inline-block;
 }
