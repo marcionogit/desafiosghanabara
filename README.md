@@ -29,6 +29,8 @@ Encontre um jeito de que, ao passar o mouse sobre um termo, mostre qual é a tag
 Faça uma pagina que tenha duas imagens, quando a janela estiver em pequena ela mostre uma, e quando estiver grande mostre outra
 - [Desafio007](https://marcionogit.github.io/desafiosghanabara/desafio007)
 ---
+## Desafio 08
+Crie uma site que tenha navegações entre as paginas, paginas com cores diferentes uma das outras
 - [Desafio008](https://marcionogit.github.io/desafiosghanabara/desafio008)
 ---
 - [Desafio009](https://marcionogit.github.io/desafiosghanabara/desafio009)
