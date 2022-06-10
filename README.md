@@ -39,7 +39,7 @@ Crie uma pagina que tenha quatro videos legais para que seu visitante possa visi
 ---
 ## Desafio 10
 Crie uma pagina com tudo que aprendemos até o momento. Degredês, listas, videos e imagens, cores e tudo mais.
-- [Desafio010](https://marcionogit.github.io/desafiosghanabara/desafio010)
+- [Desafio010](https://marcionogit.github.io/desafiosghanabara/refazendo-com-o-guana)
 ---
 ## Desafio 11
 - [Desafio011](https://marcionogit.github.io/desafiosghanabara/desafio011)
