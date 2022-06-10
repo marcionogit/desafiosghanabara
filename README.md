@@ -2,8 +2,7 @@
 ## Aqui estão todos os desafios proposto pelo Gustavo Guanabara do Curso em Video
 ---
 ## Desafio 01
-O primeiro desafio foi reproduzuir uma miniatura idêntica ao do material em pdf somente com <br>
-Parágrafos e quebras de linhas, mas sem utilizar a tag < br >
+O primeiro desafio foi reproduzuir uma miniatura idêntica ao do material em pdf somente com parágrafos e quebras de linhas, mas sem utilizar a tag < br >
 - [Desafio001](https://marcionogit.github.io/desafiosghanabara/desafio001)
 ---
 ## Desafio 02
@@ -19,13 +18,15 @@ Una os conceitos de lista e emojis: Faça três categorias de emojis que você m
 - [Desafio004](https://marcionogit.github.io/desafiosghanabara/desafio004)
 ---
 ## Desafio 05
-Monte uma pagina que divulgue suas redes sociais. A página deverá ter: Foto, uma breve descrição, <br> e os links pra suas redes
+Monte uma pagina que divulgue suas redes sociais. A página deverá ter: Foto, uma breve descrição, e os links pra suas redes
 - [Desafio005](https://marcionogit.github.io/desafiosghanabara/desafio005)
 ---
 ## Desafio 06
-Encontre um jeito de que, ao passar o mouse sobre um termo, mostre qual é a tag utilizada para <br> fazer isso
+Encontre um jeito de que, ao passar o mouse sobre um termo, mostre qual é a tag utilizada para fazer isso
 - [Desafio006](https://marcionogit.github.io/desafiosghanabara/desafio006)
 ---
+## Desafio 07
+Faça uma pagina que tenha duas imagens, quando a janela estiver em pequena ela mostre uma, e quando estiver grande mostre outra
 - [Desafio007](https://marcionogit.github.io/desafiosghanabara/desafio007)
 ---
 - [Desafio008](https://marcionogit.github.io/desafiosghanabara/desafio008)
