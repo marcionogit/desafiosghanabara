@@ -33,6 +33,8 @@ Faça uma pagina que tenha duas imagens, quando a janela estiver em pequena ela 
 Crie uma site que tenha navegações entre as paginas, paginas com cores diferentes uma das outras
 - [Desafio008](https://marcionogit.github.io/desafiosghanabara/desafio008)
 ---
+## Desafio 09
+Crie uma pagina que tenha quatro videos legais para seu visitante possa visitar. E ao clicar em qualquer uma das thumbs, abrirá uma pagina espeial para cada um.
 - [Desafio009](https://marcionogit.github.io/desafiosghanabara/desafio009)
 ---
 - [Desafio010](https://marcionogit.github.io/desafiosghanabara/desafio010)
