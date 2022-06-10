@@ -7,14 +7,16 @@ Parágrafos e quebras de linhas, mas sem utilizar a tag < br >
 - [Desafio001](https://marcionogit.github.io/desafiosghanabara/desafio001)
 ---
 ## Desafio 02
-Crie uma pagina que tenha duas imagens: uma no conteúdo da página e um no ícone de <br>
+Crie uma pagina que tenha duas imagens: Uma no conteúdo da página e um no ícone de <br>
 favoritos
 - [Desafio002](https://marcionogit.github.io/desafiosghanabara/desafio002)
 ---
 ## Desafio 03
-Monte o quebra cabeça: organize todas as nove imagens de maneira que o desenho fique completo 
+Monte o quebra cabeça: Organize todas as nove imagens de maneira que o desenho fique completo 
 - [Desafio003](https://marcionogit.github.io/desafiosghanabara/desafio003)
 ---
+## Desafio 04
+Una os conceitos de lista e emojis: Faça três categorias de emojis que você mais usa, utilizando listas
 - [Desafio004](https://marcionogit.github.io/desafiosghanabara/desafio004)
 ---
 - [Desafio005](https://marcionogit.github.io/desafiosghanabara/desafio005)
