@@ -2,11 +2,11 @@
 ## Aqui estão todos os desafios proposto pelo Gustavo Guanabara do Curso em Video.
 ---
 ## Desafio 01
-O primeiro desafio foi reproduzuir uma miniatura idêntica ao do material em pdf somente com parágrafos e quebras de linhas, mas sem utilizar a tag < br > .
+O primeiro desafio foi reproduzuir uma miniatura idêntica ao do material em pdf, somente com parágrafos e quebras de linhas, mas sem utilizar a tag < br > .
 - [Desafio001](https://marcionogit.github.io/desafiosghanabara/desafio001)
 ---
 ## Desafio 02
-Crie uma pagina que tenha duas imagens: Uma no conteúdo da página e um no ícone de favoritos.
+Crie uma pagina que tenha duas imagens: Uma no conteúdo da página e outra no ícone de favoritos.
 - [Desafio002](https://marcionogit.github.io/desafiosghanabara/desafio002)
 ---
 ## Desafio 03
@@ -14,7 +14,7 @@ Monte o quebra cabeça: Organize todas as nove imagens de maneira que o desenho 
 - [Desafio003](https://marcionogit.github.io/desafiosghanabara/desafio003)
 ---
 ## Desafio 04
-Una os conceitos de lista e emojis: Faça três categorias de emojis que você mais usa, utilizando listas.
+Una os conceitos de listas e emojis: Faça três categorias de emojis que você mais usa, utilizando listas.
 - [Desafio004](https://marcionogit.github.io/desafiosghanabara/desafio004)
 ---
 ## Desafio 05
@@ -26,15 +26,15 @@ Encontre um jeito de que, ao passar o mouse sobre um termo, mostre qual é a tag
 - [Desafio006](https://marcionogit.github.io/desafiosghanabara/desafio006)
 ---
 ## Desafio 07
-Faça uma pagina que tenha duas imagens, quando a janela estiver em pequena ela mostre uma, e quando estiver grande mostre outra.
+Faça uma pagina que tenha duas imagens, quando a janela estiver pequena, ela mostre uma, e quando estiver grande mostre outra.
 - [Desafio007](https://marcionogit.github.io/desafiosghanabara/desafio007)
 ---
 ## Desafio 08
-Crie uma site que tenha navegações entre as paginas, paginas com cores diferentes uma das outras.
+Crie uma site que tenha navegações entre as paginas, todas com cores diferentes uma das outras.
 - [Desafio008](https://marcionogit.github.io/desafiosghanabara/desafio008)
 ---
 ## Desafio 09
-Crie uma pagina que tenha quatro videos legais para seu visitante possa visitar. E ao clicar em qualquer uma das thumbs, abrirá uma pagina espeial para cada um.
+Crie uma pagina que tenha quatro videos legais para que seu visitante possa visitar. E ao clicar em qualquer uma das thumbs, abrirá uma pagina espeial para cada um.
 - [Desafio009](https://marcionogit.github.io/desafiosghanabara/desafio009)
 ---
 ## Desafio 10
