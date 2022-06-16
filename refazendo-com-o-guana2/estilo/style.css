@@ -63,10 +63,8 @@ section{
 }
 
 
-section.imagem > p{
-    background-color: rgba(0, 0, 0, 0.685);
-    max-width: fit-content;
-    padding: 10px;
+section > p{
+    padding-bottom: 2em;
 }
 
 
@@ -76,9 +74,33 @@ section.imagem > p{
 }
 
 
+section.imagem > p{
+    background-color: rgba(0, 0, 0, 0.685);
+    max-width: fit-content;
+    padding: 10px;
+    text-shadow: 0px 0px 0px rgba(0, 0, 0, 0.514);
+}
+
+
 .imagem{
     background-color: green;
     color: white;
+}
+
+
+#joaninha{
+    background-image: url(/pacote-d012/imagens/background001.jpg);
+    background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+#livro{
+    background-image: url(/pacote-d012/imagens/background002.jpg);
+    background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 
