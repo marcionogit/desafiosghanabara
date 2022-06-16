@@ -47,3 +47,8 @@ Crie uma pagina com tudo que aprendemos até o momento. Degredês, listas, video
 ## Desafio 12
 Transforme uma poesia de Milton Duarte, incluindo efeitos de _parallax_ nas imagens aplicadas ao fundo da pagina.
 - [Desafio012](https://marcionogit.github.io/desafiosghanabara/desafio012)
+---
+## Desafio 13
+Reproduza as duas tabelas mostradas na aula, mesclando suas cédulas
+- [Desafio013 - Primaiera tabela](https://marcionogit.github.io/desafiosghanabara/desafio013-part01)
+- [Desafio013 - Segunda tabela](https://marcionogit.github.io/desafiosghanabara/desafio013-part02)
