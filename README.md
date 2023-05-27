@@ -52,3 +52,4 @@ Transforme uma poesia de Milton Duarte, incluindo efeitos de _parallax_ nas imag
 Reproduza as duas tabelas mostradas na aula, mesclando suas cédulas
 - [Desafio013 - Primaiera tabela](https://marcionogit.github.io/desafiosghanabara/desafio013-part01)
 - [Desafio013 - Segunda tabela](https://marcionogit.github.io/desafiosghanabara/desafio013-part02)
+---
